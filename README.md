@@ -1,5 +1,5 @@
 # Project Title
- SUN WAVE Music Player. Course project of course CS3483 Multimodal Interface Design. Together with Seven.
+ SUN WAVE Music Player. Course project of course **CS3483 Multimodal Interface Design**. Together with SeVEnMY.
 
 ## Project Group Member
 JIANG Zhangnan, ZHAO Tianxin, ZHANG Jinghuai, WAN Yuwei, YANG Zichang
